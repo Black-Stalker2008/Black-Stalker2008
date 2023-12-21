@@ -3,9 +3,11 @@
 ## 👨‍💻 Обо мне:
 
  Привет, я начинающий QA Engineer, хочу развиваться в направлении тестирования web, \
-  мобильных приложений и работать над интересными продуктами.
+  мобильных приложений и работать над интересными продуктами. На данный момент \
+   я заканчиваю обучение на платформе Geek Brains, во время которого приобрел \
+   необходимые навыки в тестировании. Примеры выполнения задач можно найти ниже.
 
-- 📁 Мое [резюме](https://drive.google.com/file/d/1CE4Tw7PngbyF0t1OoP4M01OP0JGqliCA/view?usp=sharing)
+
 
 ---
 ## 🧠 Ключевые навыки
@@ -30,6 +32,15 @@
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1PayRfcEEiGJeVMcyE9S_JFA1jFGP4H-9KId_tDg-V24/edit?usp=sharing)
 
 ---
+
+## 📁 Мое [резюме](https://drive.google.com/file/d/1CE4Tw7PngbyF0t1OoP4M01OP0JGqliCA/view?usp=sharing)
+
+---
 ## 🤝 Контакты:
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/iron_sivi) \
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=red)](whatsnext19072021@gmail.com)
+Почта \
+whatsnext19072021@gmail.com \
+Black-Stalker2008@yandex.ru
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Black-Stalker2008)](https://github.com/anuraghazra/github-readme-stats)
