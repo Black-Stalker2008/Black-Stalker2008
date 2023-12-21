@@ -8,7 +8,7 @@
 - 📁 Мое [резюме](https://drive.google.com/file/d/1CE4Tw7PngbyF0t1OoP4M01OP0JGqliCA/view?usp=sharing)
 
 ---
-## Ключевые навыки
+## 🧠 Ключевые навыки
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=227E33)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=1195F5)
 ![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman&logoColor=F88C00)
@@ -23,7 +23,11 @@
 
 
 ---
-## 🛠 Тестовая документация:
+## 🗃️ Тестовая документация:
+
+- [Чек-листы](https://docs.google.com/spreadsheets/d/1RiobxFXY_mibvC218wbPzoy70ywCQ-TtodcFE7UxJ4I/edit?usp=sharing)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1s8TLU43pKicclB3NHoeh-ngEMSuGsV-O1x2m4Lmaf1c/edit?usp=sharing)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1PayRfcEEiGJeVMcyE9S_JFA1jFGP4H-9KId_tDg-V24/edit?usp=sharing)
 
 ---
 ## 🤝 Контакты:
